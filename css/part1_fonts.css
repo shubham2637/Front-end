@@ -1,0 +1,21 @@
+h1{
+font-family: 'Mali', cursive;
+  text-align: center;
+}
+
+p{
+  font-family: monospace;
+}
+
+body{
+  font-size: 20px;
+}
+
+#two{
+  font-size: 1.2em;
+
+}
+p{
+  font-style: italic;
+  font-weight: bold;
+}
